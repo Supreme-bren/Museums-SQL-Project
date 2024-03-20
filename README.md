@@ -10,5 +10,5 @@ and breaking up the musuems into types and showcasing how many exist in each sta
 - Microsoft Excel
 - Tableu
 ## How to get started (Data you will need)
-[https://www.kaggle.com/datasets/lucasvictor/us-state-populations-2018]
-(https://www.kaggle.com/datasets/lucasvictor/us-state-populations-2018) - State Population Data
+[https://www.kaggle.com/datasets/lucasvictor/us-state-populations-2018](https://www.kaggle.com/datasets/lucasvictor/us-state-populations-2018)
+-State Population Data
