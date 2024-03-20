@@ -12,3 +12,7 @@ and breaking up the musuems into types and showcasing how many exist in each sta
 ## How to get started (Data you will need)
 [https://www.kaggle.com/datasets/lucasvictor/us-state-populations-2018](https://www.kaggle.com/datasets/lucasvictor/us-state-populations-2018)
 - State Population Data
+[https://www.kaggle.com/datasets/imls/museum-directory](https://www.kaggle.com/datasets/imls/museum-directory)
+- Museum Data
+[https://en.wikipedia.org/wiki/List_of_regions_of_the_United_States#Standard_Federal_Regions]https://en.wikipedia.org/wiki/List_of_regions_of_the_United_States#Standard_Federal_Regions)
+- Standard Federal Region Definition
