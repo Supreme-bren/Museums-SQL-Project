@@ -18,3 +18,4 @@ and breaking up the musuems into types and showcasing how many exist in each sta
 -Standard Federal Region Definition
 
 ## Dashboard
+![Example](museum-dashboard.jpg?raw=true)
